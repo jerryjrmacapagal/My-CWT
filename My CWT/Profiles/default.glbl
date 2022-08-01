@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Username or password is invalid. Please try again.'</initValue>
+      <name>validationMessage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Your password does not meet the password policy'</initValue>
+      <name>passwordValidation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Password12345!'</initValue>
+      <name>invalidPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rgba(255, 12, 62, 1)'</initValue>
+      <name>red</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>' '</initValue>
+      <name>space</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'!@#$%^&amp;*()?/.,[}=-'</initValue>
+      <name>symbolPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'plata8@yopmail.com'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
