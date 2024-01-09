@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://stagingagency.ubidyapp.com/'</initValue>
+      <name>StagingEnv</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'This site works best on the latest'</initValue>
+      <name>WorksBestNote1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Sign in to your Ubidy Agency Account'</initValue>
+      <name>LogInTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Google Chrome browser'</initValue>
+      <name>WorksBestNote2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please provide the required fields'</initValue>
+      <name>ValidationMessageLogIn</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rgb(218, 83, 80)'</initValue>
+      <name>ValidationFieldColor</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin12345!  '</initValue>
+      <name>InvalidEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please provide your email'</initValue>
+      <name>EmptyEmailValidation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Invalid Email'</initValue>
+      <name>InvalidEmailValidation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please provide your password'</initValue>
+      <name>EmptyPasswordValidation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Forgot Password?'</initValue>
+      <name>ForgotPasswordLink</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'RESET YOUR UBIDY PASSWORD'</initValue>
+      <name>ResetPasswordTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ubidy Privacy Policy'</initValue>
+      <name>PrivacyPolicyTabTile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://ubidy-generic-prod.s3.ap-southeast-2.amazonaws.com/ubi/docs/termsandconditions/GL_Privacy_Policy.pdf'</initValue>
+      <name>PrivacyPolicyURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'qa.tester+jerry_agency@ubidy.com'</initValue>
+      <name>ValidEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ubidy12345!'</initValue>
+      <name>ValidPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Engagements'</initValue>
+      <name>EngagementsTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Sign up for a Ubidy Agency Account'</initValue>
+      <name>SignUpTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'I have read and agree to the Ubidy Terms &amp; Conditions:'</initValue>
+      <name>AgreementTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'   '</initValue>
+      <name>Whitespace</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Must be at least 5 characters'</initValue>
+      <name>InvalidCompanyNameValidation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please provide a valid email'</initValue>
+      <name>EmptyEmailValidationSignUp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please provide your password'</initValue>
+      <name>EmptyPasswordValidationSignUp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please provide your company name'</initValue>
+      <name>EmptyCompanyNameValidationSignUp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please provide your first name'</initValue>
+      <name>EmptyFirstNameValidationSignUp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please provide your last name'</initValue>
+      <name>EmptyLastNameValidationSignUp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ubidy'</initValue>
+      <name>InvalidPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'QuantumSynergies&amp;InnovationsExpressLtd_RevolutionizingTech4SustainableFuture_EnterprisesGlobal_InfinitePossibilitiesSolutionsCo_IntegratedInnovativeDynamics_XYZCorporationLimited'</initValue>
+      <name>InvalidCompanyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Password didn\'t matched'</initValue>
+      <name>INvalidReTypePassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Should not be more than 100 characters'</initValue>
+      <name>InvalidCompanyNameValidation2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
