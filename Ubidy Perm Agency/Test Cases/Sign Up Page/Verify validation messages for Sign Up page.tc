@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify validation messages for Sign Up page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a558de56-e04c-4383-9bcf-29855ef4c3bf</testCaseGuid>
+</TestCaseEntity>

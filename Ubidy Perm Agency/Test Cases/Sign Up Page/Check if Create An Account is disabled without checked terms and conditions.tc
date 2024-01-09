@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check if Create An Account is disabled without checked terms and conditions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51d407c0-1469-4eeb-9c25-cb366b5989b2</testCaseGuid>
+</TestCaseEntity>
